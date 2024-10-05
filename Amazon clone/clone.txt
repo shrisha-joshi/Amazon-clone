@@ -1,0 +1,2 @@
+1. Font Awesome
+2. cdnjs.com (content delivery network)
